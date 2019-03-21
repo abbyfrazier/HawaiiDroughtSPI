@@ -4,8 +4,6 @@
 #Stack by decade (all months), calculate mean SPI by decade
 #Save mean raster
 
-#Right now set up to run SPI-3 & 6 only:
-
 rm(list=ls())
 
 library('raster')
